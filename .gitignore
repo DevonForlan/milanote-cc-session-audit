@@ -1,0 +1,7 @@
+raw/
+spool/
+*.jsonl
+*.env
+*cookie*
+*token*
+*profile*

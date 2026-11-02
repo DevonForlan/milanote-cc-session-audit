@@ -1,0 +1,29 @@
+{
+  "sessionId": "0585a915-2b02-47a2-8837-fbe0edb6c4eb",
+  "project": "C:/Users/[REDACTED:windows-username]/Desktop/個人/milanote",
+  "claudeCodeVersions": [
+    "2.1.316"
+  ],
+  "firstTimestamp": "2026-11-02T07:26:47.638Z",
+  "lastTimestamp": "2026-11-02T08:07:27.972Z",
+  "exportedAt": "2026-11-02T08:07:45.213Z",
+  "source": "local session JSONL (~/.claude/projects/.../<sid>.jsonl)",
+  "counts": {
+    "records": 482,
+    "conversationEntries": 31,
+    "toolEntries": 86,
+    "shellCommands": 31
+  },
+  "excluded": [
+    "thinking blocks",
+    "system-reminder blocks",
+    "system/meta/api-request records",
+    "images"
+  ],
+  "missing": [
+    "JSONL is flushed up to the point of export; later turns are not included",
+    "Shell exit codes are not separately recorded unless present in result text",
+    "System prompts are not exported by design"
+  ],
+  "authorization": "IT department verbal consent only, no written record (per user statement). Sharing with ChatGPT NOT covered / unconfirmed."
+}
